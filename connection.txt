@@ -1,0 +1,2 @@
+sc8-sp16sql-dev--->sql
+sc8-sp13app-dev
